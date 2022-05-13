@@ -275,8 +275,8 @@ h3.my-proffesion span{
     width: 80px;
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
-    left: 0px;
-    top: -40px;
+    left: 30px;
+    top: -30px;
 }  
 .home-img::after{
     content: '';
@@ -285,8 +285,8 @@ h3.my-proffesion span{
     width: 80px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
-    right: 0px;
-    bottom: -40px;
+    right: 30px;
+    bottom: -30px;
 } 
 .home .home-img img{
     margin: auto;
